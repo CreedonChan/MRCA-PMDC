@@ -12,4 +12,4 @@ We present a probabilistic Mahalanobis distance constraint combined with MPPI al
 ![Dynamic Obstacle Scenario](https://github.com/CreedonChan/MRCA-PMDC/blob/main/7_robots_and_0_obs.gif)
 
 ## Experiment Video Display
-https://github.com/CreedonChan/MRCA-PMDC/blob/main/experimental_video.mp4
+https://github.com/CreedonChan/MRCA-PMDC/blob/main/experiment_video.mp4
