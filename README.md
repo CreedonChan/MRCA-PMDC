@@ -4,16 +4,6 @@
 # Multi-Robot Collision Avoidance with Probabilistic Mahalanobis Distance Constraints
 We present a probabilistic Mahalanobis distance constraint combined with MPPI algorithm to realize multi-robot system collision avoidance.
 
-<div align="center">
-  <video src="https://github.com/CreedonChan/MRCA-PMDC/raw/main/experiment_video.mp4" width="720" controls>
-    Your browser does not support the video tag.
-  </video>
-  <p><em>Experiment video (5.39 MB) - Click play to watch directly</em></p>
-  
-  <p>📥 <a href="https://github.com/CreedonChan/MRCA-PMDC/raw/main/experiment_video.mp4">Download</a> • 
-  📺 <a href="https://youtu.be/ZwTyltWsGXU">Watch on YouTube</a></p>
-</div>
-
 ## Environment Setup and Installation
 ### System Requirements
 
@@ -30,7 +20,7 @@ Hardware: NVIDIA GPU + CUDA [11.8/12.1] recommended (CPU only also supported)
 | pillow | 11.3.0 | Image processing |
 | scipy | 1.16.0 | Scientific computing |
 
-### ⚙️ Installation Steps
+### Installation Steps
 
 ```bash
 # 1. Clone the repository
@@ -91,6 +81,17 @@ pip install -r requirements.txt
 </table>
 
 ## Experiment Video
-https://github.com/CreedonChan/MRCA-PMDC/blob/main/experiment_video.mp4
+<div align="center">
+  <a href="https://youtu.be/ZwTyltWsGXU" target="_blank">
+    <img src="https://img.youtube.com/vi/ZwTyltWsGXU/maxresdefault.jpg" 
+         alt="MRCA-PMDC Experiment" 
+         width="480">
+  </a>
+  
+  <p>
+     <a href="https://github.com/CreedonChan/MRCA-PMDC/raw/main/experiment_video.mp4">Download MP4</a> • 
+     <a href="https://youtu.be/ZwTyltWsGXU" target="_blank">Watch on YouTube</a>
+  </p>
+</div>
 
 
