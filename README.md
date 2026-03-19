@@ -4,9 +4,15 @@
 # Multi-Robot Collision Avoidance with Probabilistic Mahalanobis Distance Constraints
 We present a probabilistic Mahalanobis distance constraint combined with MPPI algorithm to realize multi-robot system collision avoidance.
 
-<video src="https://github.com/CreedonChan/MRCA-PMDC/blob/main/experiment_video.mp4" width="720" controls>
-  Your browser does not support the video tag.
-</video>
+<div align="center">
+  <video src="https://github.com/CreedonChan/MRCA-PMDC/raw/main/experiment_video.mp4" width="720" controls>
+    Your browser does not support the video tag.
+  </video>
+  <p><em>Experiment video (5.39 MB) - Click play to watch directly</em></p>
+  
+  <p>📥 <a href="https://github.com/CreedonChan/MRCA-PMDC/raw/main/experiment_video.mp4">Download</a> • 
+  📺 <a href="https://youtu.be/ZwTyltWsGXU">Watch on YouTube</a></p>
+</div>
 
 ## Environment Setup and Installation
 ### System Requirements
