@@ -2,9 +2,9 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.7.1-orange)
 
 # Multi-Robot Collision Avoidance with Probabilistic Mahalanobis Distance Constraints
-```
-We present a probabilistic Mahalanobis distance constraint combined with MPPI algorithm to realize multi-robot system collision avoidance.
-```
+
+<!--We present a probabilistic Mahalanobis distance constraint combined with MPPI algorithm to realize multi-robot system collision avoidance.-->
+
 We integrates Probabilistic Mahalanobis Distance into the MPPI framework to formulate collision avoidance as a chance-constrained optimization problem. By accounting for state uncertainty and covariance, the algorithm ensures robust safety guarantees in dynamic and uncertain environments.
 
 ## Environment Setup and Installation
