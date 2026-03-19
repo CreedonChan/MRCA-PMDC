@@ -38,6 +38,9 @@ source venv/bin/activate
 # 3. Upgrade pip and install dependencies
 pip install --upgrade pip
 pip install -r requirements.txt
+
+# 4. Run the project
+python run.py
 ```
 
 ## Simulation Demos
@@ -53,7 +56,7 @@ pip install -r requirements.txt
     </td>
     <td align="center">
       <strong>Dynamic Obstacle Scenario</strong><br>
-      <strong>(7 robots)</strong>
+      <strong>(7 robots, 2 dynamic obstacles)</strong>
     </td>
   </tr>
   <tr>
@@ -75,7 +78,7 @@ pip install -r requirements.txt
       <em>Navigation in cluttered<br>environment with static obstacles</em>
     </td>
     <td align="center">
-      <em>Robots as dynamic obstacles<br>for each other</em>
+      <em>Avoiding two dynamic obstacles<br>moving across the environment</em>
     </td>
   </tr>
 </table>
