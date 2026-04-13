@@ -1,4 +1,4 @@
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Python](https://img.shields.io/badge/Python-3.11%2B-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.7.1-orange)
 
 # Multi-Robot Collision Avoidance with Probabilistic Mahalanobis Distance Constraints
@@ -11,7 +11,7 @@ We integrates Probabilistic Mahalanobis Distance into the MPPI framework to form
 ### System Requirements
 
 OS: Recommended [Ubuntu 20.04 / Windows 10 / macOS]
-Python: [3.8 / 3.9 / 3.10]
+Python: [3.11 / 3.12 / 3.13]
 Hardware: NVIDIA GPU + CUDA [11.8/12.1] recommended (CPU only also supported)
 
 | Package | Version | Purpose |
@@ -31,6 +31,7 @@ git clone https://github.com/CreedonChan/MRCA-PMDC.git
 cd MRCA-PMDC
 
 # 2. Create and activate virtual environment
+# Warning: Python 3.11+ is required.
 # For Linux/macOS:
 python3 -m venv venv
 source venv/bin/activate
